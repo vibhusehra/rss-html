@@ -23,8 +23,8 @@ h1{text-align: center;
 			width:400px;
 			height: 300px;
 			position: relative;
-			left:-300px;
-			top:100px;
+			left:450px;
+			top:75px;
 
 		  }
 		  	
@@ -55,15 +55,15 @@ h1{text-align: center;
 			
 		}
 		#navigate li a:visited{
-			color:#f4c8c8;
+			color:#ff7272;
 		}
 		#navigate li a:link{
-			color:#ff7272;
+			color:#f4c8c8;
 			font-weight: bold;
 		}
 
 		#navigate li a:hover{
-			background-color: white;
+			background-color: #858A8F;
 			text-decoration: underline;
 			color:#C12909;
 			
