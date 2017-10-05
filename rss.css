@@ -27,6 +27,10 @@ h1{text-align: center;
 #navigate{
 		list-style-type: none;
 		background-color: #878484;
+		padding-left: 0;
+		margin-bottom: 5px;
+		padding-bottom: 10px;
+
 		}
 		#navigate a{
 			text-decoration: none;
@@ -44,8 +48,7 @@ h1{text-align: center;
 		}
 
 #navigate li{ 	
-				padding: 10px;
-				display: block;
+				display: inline;
 				color: #ff7272;
 				text-align: center;
 				background-color: #878484;
